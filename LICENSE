@@ -1,0 +1,10 @@
+### Step 2: How to get the URL to submit
+
+1. Go to **[GitHub](https://github.com)** and create a **Public** repository (name it e.g., `simple-interest-calculator`).
+2. Make sure to check **"Add a README file"** during setup.
+3. Edit the `README.md` file on GitHub using the text template above and click **Commit changes**.
+4. Copy the URL of your repository from your browser address bar (it will look like this):
+   `[https://github.com/YOUR_USERNAME/simple-interest-calculator](https://github.com/YOUR_USERNAME/simple-interest-calculator)`
+5. Paste that link directly into the **"Enter website URL"** text box in your assignment dashboard[cite: 2] and proceed to Task 2.
+
+<FollowUp label="Need help creating the script file (simple-interest.sh or Python code) for this project as well?" query="Write a simple interest calculator script in Bash and Python for a GitHub repository submission."/>
